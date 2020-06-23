@@ -1,0 +1,6 @@
+language: bash
+script:
+- echo "hello"
+- echo "Travis CI Test"
+- ./same-test.sh
+
